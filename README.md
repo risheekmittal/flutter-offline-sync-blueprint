@@ -22,3 +22,18 @@ Develop the Repository implementation with offline-first logic and error handlin
 
 ## Day 4
 Develop the Repository implementation with offline-first logic and error handling
+## Day 5
+Implement BloC for state management and integrate the service in the main entry point
+
+## Day 5
+Implement BloC for state management and integrate the service in the main entry point
+
+## Day 5
+Implement BloC for state management and integrate the service in the main entry point
+
+## Day 5
+Implement BloC for state management and integrate the service in the main entry point
+
+
+## Day 5
+Implement BloC for state management and integrate the service in the main entry point
