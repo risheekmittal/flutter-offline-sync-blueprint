@@ -16,3 +16,9 @@ Setup remote data source and network information utility for connectivity tracki
 
 ## Day 3
 Setup remote data source and network information utility for connectivity tracking
+## Day 4
+Develop the Repository implementation with offline-first logic and error handling
+
+
+## Day 4
+Develop the Repository implementation with offline-first logic and error handling
