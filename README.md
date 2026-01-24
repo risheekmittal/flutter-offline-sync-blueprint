@@ -10,3 +10,9 @@ Implement local data source using Isar and data models with JSON serialization
 
 ## Day 2
 Implement local data source using Isar and data models with JSON serialization
+## Day 3
+Setup remote data source and network information utility for connectivity tracking
+
+
+## Day 3
+Setup remote data source and network information utility for connectivity tracking
